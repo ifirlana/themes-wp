@@ -22,6 +22,6 @@
     }
   },
   "config": {
-    "devUrl": "http://localhost:8080/wp"
+    "devUrl": "http://localhost:7888/"
   }
 }
